@@ -9,5 +9,5 @@ Want to join the Git Gang? Just fill out the form below.
 ## Add your entry below this line
 
 - Name: Ramla Eman
-- Username: Ramla-Eman
+- Username: [Ramla-Eman](https://github.com/Ramla-Eman)
 - Message: Happy to join as a Full Stack Developer
